@@ -1,0 +1,5 @@
+[
+    {"host": "192.168.0.101", "user": "user1", "password": "pass1"},
+    {"host": "192.168.0.102", "user": "user2", "password": "pass2"}
+]
+  

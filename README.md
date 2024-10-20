@@ -7,6 +7,11 @@ A custom server monitor for collecting, storing, and visualizing server metrics,
 - Visualize the data in a web-app using Flask.
 - Email/SMS alerts in anomalies (threshold breaches).
 
+## Dependencies
+- Python 3.x
+- Flask
+- lm-sensors (for temp monitoring in linux machines)
+
 ## Installation
 1. Clone the repository:
    "git clone https://github.com/merdem22/server-activity-monitor.git"
